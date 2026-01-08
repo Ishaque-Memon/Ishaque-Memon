@@ -2,7 +2,7 @@
 
 # Muhammad Ishaque
 
-### Software Engineer | SaaS Architect | Full-Stack Developer
+### Software Engineer | Full-Stack Developer
 
 *Crafting scalable systems that power real businesses*
 
@@ -16,41 +16,33 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer currently interning at **Techriv Solutions**, where I work on building production-ready web applications and contributing to real-world SaaS products. I specialize in architecting multi-tenant systems, designing scalable backends, and creating intuitive user experiences across web and mobile platforms.
+Software Engineer at **Techriv Solutions**, specializing in multi-tenant SaaS architectures and full-stack development. I build scalable systems from database design to deployment—focusing on clean code, security, and performance optimization.
 
-I'm passionate about solving complex technical challenges—from database architecture and API design to deployment strategies and performance optimization. Every project I build is driven by one goal: creating solutions that are not just functional, but production-ready and maintainable.
-
-**What I Do:** Multi-tenant architecture • RESTful API design • Database optimization • Cloud deployment • Mobile-first development
+**Core Focus:** Multi-tenant systems • REST API design • Cloud deployment • Mobile development
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Work
 
-### 🏢 [Restaurant SaaS – Multi-Tenant Platform](https://github.com/Ishaque-Memon/restaurant-saas)
-Built a complete SaaS backend from scratch with tenant isolation at the database level. Each restaurant gets their own secure database instance with role-based access control, custom domains, and isolated data management. Focused heavily on security, scalability, and clean architecture patterns.
+### [Restaurant SaaS – Multi-Tenant Platform](https://github.com/Ishaque-Memon/restaurant-saas)
+Complete SaaS backend with database-level tenant isolation. Each restaurant gets a dedicated database instance with RBAC and custom domain support.
 
-**Tech:** Fastify • TypeScript • MongoDB • Next.js
+**Stack:** Fastify • TypeScript • MongoDB • Next.js
 
----
+### [RELEAZY – Serverless App Distribution](https://github.com/Ishaque-Memon/releazy)
+Zero-infrastructure mobile app distribution. SMS-based access codes for secure APK/IPA downloads directly from cloud storage.
 
-### 📱 [RELEAZY – Serverless App Distribution](https://github.com/Ishaque-Memon/releazy)
-Created a zero-cost infrastructure solution for distributing mobile apps securely. Users get unique access codes via SMS to download APK/IPA files directly from cloud storage. No app stores, no servers to maintain—just pure serverless architecture.
+**Stack:** Next.js • Supabase • Google Drive API • Twilio
 
-**Tech:** Next.js • Supabase • Google Drive API • Twilio
+### [SchoolSync – White-Label Mobile App](https://github.com/Ishaque-Memon/schoolsync)
+Multi-tenant framework enabling schools to launch branded apps with custom theming and real-time updates.
 
----
+**Stack:** React Native • Expo • Firebase
 
-### 🎓 [SchoolSync – White-Label School App](https://github.com/Ishaque-Memon/schoolsync)
-Designed a white-label mobile app framework where schools can launch their own branded apps without writing code. Each instance has custom theming, content management, and real-time updates. Built with scalability in mind to support multiple schools simultaneously.
+### [ClearPix AI – Image Editing SaaS](https://clear-pix-ai.vercel.app/)
+Credit-based AI photo editing platform with background removal, restoration, and Stripe payment integration.
 
-**Tech:** React Native • Expo • Firebase
-
----
-
-### ✨ [ClearPix AI – AI Image Editing SaaS](https://clear-pix-ai.vercel.app/)
-Developed a credit-based image editing platform powered by AI. Users can remove backgrounds, restore photos, and apply transformations through a clean interface. Integrated Stripe for payment processing and built a custom credit management system.
-
-**Tech:** Next.js • Cloudinary AI • Stripe
+**Stack:** Next.js • Cloudinary AI • Stripe
 
 ---
 
