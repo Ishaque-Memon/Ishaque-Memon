@@ -98,17 +98,33 @@ Here are the main tools and languages I use to bring ideas to life:
 
 ---
 
-✍️ Random Dev Quote
-<div align="center">
-Show Image
-</div>
-
-🔝 Top Contributed Repo
-<div align="center">
-Show Image
-</div>
+## ✍️ Random Dev Quote
 
 <div align="center">
-💼 Open to freelance projects and collaboration opportunities
-Let's build something amazing together!
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 </div>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Ishaque-Memon&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to freelance projects and collaboration opportunities
+
+**Let's build something amazing together!**
+
+</div>
+
+
+
