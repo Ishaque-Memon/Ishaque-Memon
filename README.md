@@ -117,13 +117,15 @@ Developed a credit-based image editing platform powered by AI. Users can remove 
 ## 📊 GitHub Activity
 
 <div align="center">
-  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaque-Memon&theme=default&hide_border=true" alt="GitHub Streak" /></a>
 
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishaque-Memon&theme=default)
 
-<div align="center">
-  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishaque-Memon&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishaque-Memon&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishaque-Memon&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishaque-Memon&theme=default)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ishaque-Memon&style=flat-square&color=blue)
 
 </div>
