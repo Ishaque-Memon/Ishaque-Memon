@@ -117,15 +117,7 @@ Developed a credit-based image editing platform powered by AI. Users can remove 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaque-Memon&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaque-Memon&theme=default&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaque-Memon&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ishaque-Memon&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
