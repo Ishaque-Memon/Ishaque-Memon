@@ -16,38 +16,38 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer at **Techriv Solutions**, specializing in multi-tenant SaaS architectures and full-stack development. I build scalable systems from database design to deployment—focusing on clean code, security, and performance optimization.
+I'm a Software Developer at Techriv Solutions. My main job is to build the whole system—from the backend database to the front-end that you actually see. I'm especially good at creating complex web platforms that serve many different companies (what we call multi-tenant SaaS). I make sure the code is clean, secure, and fast.
 
-**Core Focus:** Multi-tenant systems • REST API design • Cloud deployment • Mobile development
-
----
-
-## 🚀 Featured Work
-
-### [Restaurant SaaS – Multi-Tenant Platform](https://github.com/Ishaque-Memon/restaurant-saas)
-Complete SaaS backend with database-level tenant isolation. Each restaurant gets a dedicated database instance with RBAC and custom domain support.
-
-**Stack:** Fastify • TypeScript • MongoDB • Next.js
-
-### [RELEAZY – Serverless App Distribution](https://github.com/Ishaque-Memon/releazy)
-Zero-infrastructure mobile app distribution. SMS-based access codes for secure APK/IPA downloads directly from cloud storage.
-
-**Stack:** Next.js • Supabase • Google Drive API • Twilio
-
-### [SchoolSync – White-Label Mobile App](https://github.com/Ishaque-Memon/schoolsync)
-Multi-tenant framework enabling schools to launch branded apps with custom theming and real-time updates.
-
-**Stack:** React Native • Expo • Firebase
-
-### [ClearPix AI – Image Editing SaaS](https://clear-pix-ai.vercel.app/)
-Credit-based AI photo editing platform with background removal, restoration, and Stripe payment integration.
-
-**Stack:** Next.js • Cloudinary AI • Stripe
+**I focus on:** Building platforms for many users • Designing simple, effective APIs • Getting apps set up in the cloud • Making mobile apps
 
 ---
 
-## 🛠️ Technology Stack
+## Projects I've Worked On
 
+## Restaurant Platform (SaaS)
+This is a big project I’m currently building for the restaurant industry. I’ve set it up so every restaurant gets its own private, secure database. They also get their own web address, and I’ve built a system so the owners can control exactly what their staff can see and do on the platform.
+
+**Tools Used:** Fastify, TypeScript, MongoDB, Next.js
+
+### RELEAZY – Simple App Sharing
+A super-simple way to give people access to test a mobile app without needing any complicated setup on my side. Users get an access code via text message (SMS) to securely download the app file.
+
+**Tools Used:** Next.js, Supabase, Google Drive API, Twilio
+
+### SchoolSync – Mobile App for Schools
+This is a framework that lets different schools quickly launch their own branded mobile app. They can change the colors and logo, and it updates everything in real-time.
+
+**Tools Used:**  React Native, Expo, Firebase
+
+### ClearPix AI – AI Photo Editor
+A website where users can use AI to edit photos (like removing backgrounds or fixing old pictures). It uses a credit system, and I set up the payment system with Stripe.
+
+**Tools Used:**  Next.js, Cloudinary AI, Stripe
+
+---
+
+## 🛠️ My Toolbox (Technologies I Use)
+Here are the main tools and languages I use to bring ideas to life:
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -124,15 +124,9 @@ Credit-based AI photo editing platform with background removal, restoration, and
 
 ---
 
-## 🌱 Currently Learning
-
-Right now I'm diving deeper into DevOps and cloud infrastructure. Learning to build CI/CD pipelines with GitHub Actions, working with Docker containers, and exploring Kubernetes for orchestrating microservices. The goal is to master the full deployment lifecycle—from development to production monitoring.
-
----
-
 ## 📬 Let's Connect
 
-Always open to discussing new projects, technical challenges, or collaboration opportunities. Whether you're building something interesting or just want to talk tech—reach out!
+I’m always up for a chat about new projects, solving tricky tech problems, or just talking about how things work. If you’re building something or just want to say hi, feel free to reach out!
 
 <div align="center">
 
@@ -146,6 +140,6 @@ Always open to discussing new projects, technical challenges, or collaboration o
 
 <div align="center">
 
-*"I don't just write code—I build systems that scale"*
+*"I don't just write code; I build systems that can handle a lot of growth."*
 
 </div>
