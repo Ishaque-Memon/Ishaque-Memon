@@ -4,7 +4,7 @@
 
 ### Software Engineer | SaaS Architect | Full-Stack Developer
 
-*Building scalable, production-ready solutions from concept to deployment*
+*Crafting scalable systems that power real businesses*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-ishaque.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ishaque-574492249)
@@ -16,39 +16,41 @@
 
 ## 👨‍💻 About Me
 
-Software Engineering graduate specializing in enterprise-grade SaaS platforms and multi-tenant architectures. I focus on delivering robust, scalable solutions that solve real business challenges through clean code, thoughtful system design, and modern cloud infrastructure.
+Software Engineer currently interning at **Techriv Solutions**, where I work on building production-ready web applications and contributing to real-world SaaS products. I specialize in architecting multi-tenant systems, designing scalable backends, and creating intuitive user experiences across web and mobile platforms.
 
-**Core Expertise:** Multi-tenant systems • Full-stack development • Cloud architecture • Secure authentication • Mobile applications
+I'm passionate about solving complex technical challenges—from database architecture and API design to deployment strategies and performance optimization. Every project I build is driven by one goal: creating solutions that are not just functional, but production-ready and maintainable.
+
+**What I Do:** Multi-tenant architecture • RESTful API design • Database optimization • Cloud deployment • Mobile-first development
 
 ---
 
 ## 🎯 Featured Projects
 
 ### 🏢 [Restaurant SaaS – Multi-Tenant Platform](https://github.com/Ishaque-Memon/restaurant-saas)
-Enterprise-grade SaaS platform featuring complete tenant isolation, role-based access control, and high-performance backend architecture designed for scalability.
+Built a complete SaaS backend from scratch with tenant isolation at the database level. Each restaurant gets their own secure database instance with role-based access control, custom domains, and isolated data management. Focused heavily on security, scalability, and clean architecture patterns.
 
-**Stack:** Fastify • TypeScript • MongoDB • Next.js
+**Tech:** Fastify • TypeScript • MongoDB • Next.js
 
 ---
 
 ### 📱 [RELEAZY – Serverless App Distribution](https://github.com/Ishaque-Memon/releazy)
-Zero-infrastructure mobile app distribution platform with secure access code authentication, supporting APK/IPA delivery via cloud storage integration.
+Created a zero-cost infrastructure solution for distributing mobile apps securely. Users get unique access codes via SMS to download APK/IPA files directly from cloud storage. No app stores, no servers to maintain—just pure serverless architecture.
 
-**Stack:** Next.js • Supabase • Google Drive API • Twilio
+**Tech:** Next.js • Supabase • Google Drive API • Twilio
 
 ---
 
 ### 🎓 [SchoolSync – White-Label School App](https://github.com/Ishaque-Memon/schoolsync)
-Multi-tenant mobile application framework enabling schools to deploy branded instances with customized theming and content management.
+Designed a white-label mobile app framework where schools can launch their own branded apps without writing code. Each instance has custom theming, content management, and real-time updates. Built with scalability in mind to support multiple schools simultaneously.
 
-**Stack:** React Native • Expo • Firebase
+**Tech:** React Native • Expo • Firebase
 
 ---
 
 ### ✨ [ClearPix AI – AI Image Editing SaaS](https://clear-pix-ai.vercel.app/)
-Credit-based SaaS platform leveraging AI-powered image transformation with integrated payment processing and user management.
+Developed a credit-based image editing platform powered by AI. Users can remove backgrounds, restore photos, and apply transformations through a clean interface. Integrated Stripe for payment processing and built a custom credit management system.
 
-**Stack:** Next.js • Cloudinary AI • Stripe
+**Tech:** Next.js • Cloudinary AI • Stripe
 
 ---
 
@@ -60,12 +62,27 @@ Credit-based SaaS platform leveraging AI-powered image transformation with integ
 
 ### Frontend Development
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css,gsap&perline=4" />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </div>
 
 ### Backend Development
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,mongodb,postgres,firebase&perline=3" />
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </div>
 
 </td>
@@ -73,12 +90,22 @@ Credit-based SaaS platform leveraging AI-powered image transformation with integ
 
 ### Mobile Development
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,expo&perline=2" />
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 </div>
 
 ### Cloud & DevOps
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vercel,railway,supabase,docker,github,git&perline=3" />
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 </td>
@@ -87,23 +114,28 @@ Credit-based SaaS platform leveraging AI-powered image transformation with integ
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishaque-Memon&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&icon_color=2f80ed&text_color=333333" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishaque-Memon&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=2f80ed&icon_color=2f80ed&text_color=333333&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishaque-Memon&theme=default&hide_border=false&background=ffffff&ring=2f80ed&fire=2f80ed&currStreakLabel=333333" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaque-Memon&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=2f80ed&text_color=333333&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-## 🌱 Continuous Learning
+## 🌱 Currently Learning
 
-Currently expanding expertise in modern DevOps practices and distributed systems architecture, including CI/CD pipeline automation with GitHub Actions, containerization with Docker and Kubernetes orchestration, and microservices design patterns for scalable cloud-native applications.
+Right now I'm diving deeper into DevOps and cloud infrastructure. Learning to build CI/CD pipelines with GitHub Actions, working with Docker containers, and exploring Kubernetes for orchestrating microservices. The goal is to master the full deployment lifecycle—from development to production monitoring.
 
 ---
 
 ## 📬 Let's Connect
 
-I'm always interested in discussing new opportunities, technical challenges, or potential collaborations. Feel free to reach out through any of the channels below.
+Always open to discussing new projects, technical challenges, or collaboration opportunities. Whether you're building something interesting or just want to talk tech—reach out!
 
 <div align="center">
 
@@ -117,6 +149,6 @@ I'm always interested in discussing new opportunities, technical challenges, or 
 
 <div align="center">
 
-*"Building tomorrow's solutions with today's technology"*
+*"I don't just write code—I build systems that scale"*
 
 </div>
