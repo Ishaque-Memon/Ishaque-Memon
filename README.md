@@ -17,7 +17,7 @@ I build strong, lasting software systems that real businesses actually use.
 ## 💫 About Me
 
 
-Software Engineer @ Techriv Solutions | Building Multi-Tenant SaaS Platforms | Full-Stack (MERN + Next.js) | React Native Developer | TypeScript Enthusiast | Cloud & Serverless Architecture | Currently Learning Docker & Kubernetes | Passionate about scalable systems and clean code
+Software Engineer @ Techriv Solutions | Building Multi-Tenant SaaS Platforms | Full-Stack (MERN + Next.js) | React Native Developer | TypeScript Enthusiast | Cloud & Serverless Architecture | Docker & Kubernetes | Passionate about scalable systems and clean code
 
 
 ## 🛠️ My Toolbox (Technologies I Use)
